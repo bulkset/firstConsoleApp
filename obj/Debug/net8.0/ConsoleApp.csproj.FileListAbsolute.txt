@@ -1,0 +1,15 @@
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
