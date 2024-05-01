@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
+      "projectUniqueName": "/Users/chupapa/Documents/vscode/arc-01-my_ngram/firstConsoleApp/ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
+      "projectPath": "/Users/chupapa/Documents/vscode/arc-01-my_ngram/firstConsoleApp/ConsoleApp.csproj",
       "packagesPath": "/Users/chupapa/.nuget/packages/",
-      "outputPath": "/Users/chupapa/RiderProjects/ConsoleApp/ConsoleApp/obj/",
+      "outputPath": "/Users/chupapa/Documents/vscode/arc-01-my_ngram/firstConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/chupapa/.nuget/NuGet/NuGet.Config"
